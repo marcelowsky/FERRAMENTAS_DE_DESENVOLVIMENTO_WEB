@@ -17,6 +17,7 @@ body {
     
     
 }
+
 .instagram-wrapper{
     display: flex;
     align-items: center;
@@ -60,9 +61,9 @@ body {
     
 }
 .logo-instagram{
-    height: 5rex;
+    height: 10rex;
     padding-top: 5px;
-    float: left;
+    float: middle;
     margin-bottom: 5px;
     margin-left: 2px;
     
@@ -119,11 +120,11 @@ body {
     color: #0095f6;
 }
 .face img{
-    height: 5rex;
+    height: 8rex;
     padding-top: 5px;
-    float:inline-start;
+    float:middle;
     margin-bottom: 5px;
-    margin-left: 50px;
+    margin-left: 2px;
 }
 
 
@@ -143,7 +144,7 @@ body {
     
 }
 footer{
-    height: 25px;
+    height: 35px;
     margin: 3px;
     background-color: #0000;
     border: #0000;
@@ -158,14 +159,27 @@ footer{
 .contact-list{
     height: 5rex;
     padding-top: 5px;
-    float: right;
+    float: middle;
     margin-bottom: 5px;
-    margin-left: 50px;
+    margin-left: 2px;
 }
 .contact-list img{
-    width: 5%;
+    width: 8%;
     border-bottom: 3px;   
     
+}
+.canal{
+    
+    padding-top: 5px;
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 2px;
+}
+.canal img{
+    height:10rex ;
+    border-bottom: 3px;
+    margin-bottom: 5px;
+    margin-right: 5px; 
 }
 .rodape{
     color: gray;
