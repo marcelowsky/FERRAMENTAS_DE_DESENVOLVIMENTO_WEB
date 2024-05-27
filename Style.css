@@ -91,7 +91,7 @@
 #info3{
     color: #000;
 }
-.info1:hover{
+.info3:hover{
     background-color: #ccbbff;
     box-shadow: inset 2px 2px 2px rgb(0,0,0,0.2);
     text-shadow: none;
